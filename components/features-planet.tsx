@@ -17,6 +17,18 @@ export default function FeaturesPlanet() {
               Simple helps your teams work more efficiently together
             </h2>
           </div>
+          <div className="mx-auto max-w-3xl">
+            <p
+              className="mb-8 text-lg text-gray-200 text-center"
+              data-aos="zoom-y-out"
+              data-aos-delay={300}
+            >
+              Simple is a modern website builder powered by AI that changes how
+              companies create user interfaces together.
+            </p>
+            <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,theme(colors.slate.300/.8),transparent)1]"></div>
+          </div>
+
           {/* Planet */}
           <div className="pb-16 md:pb-20" data-aos="zoom-y-out">
             <div className="text-center">

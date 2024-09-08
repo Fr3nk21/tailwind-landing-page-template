@@ -29,6 +29,14 @@ export default function Header() {
                 Register
               </Link>
             </li>
+            <li>
+              <Link
+                href="/prova"
+                className="btn-sm bg-gray-800 text-gray-200 shadow hover:bg-gray-900"
+              >
+                Prova
+              </Link>
+            </li>
           </ul>
         </div>
       </div>

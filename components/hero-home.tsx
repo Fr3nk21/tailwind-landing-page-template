@@ -83,7 +83,7 @@ export default function HeroHome() {
                 how companies create user interfaces together.
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,theme(colors.slate.300/.8),transparent)1]">
-                <div
+                {/* <div
                   className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center"
                   data-aos="zoom-y-out"
                   data-aos-delay={450}
@@ -105,7 +105,7 @@ export default function HeroHome() {
                   >
                     Learn More
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
